@@ -8,7 +8,7 @@
   year={2016}
 }
 ```
-This research emphasized on the importance of tools to automatically detect test smells as most of the times practitioners have little or no awareness about the smells in test code. Also it proved that, there are some relationships between production code smell and test code smell.
+This research emphasized on the importance of tools to automatically detect test smells as most of the times practitioners have little or no awareness about the smells in test code. Also it proved that, there are some relationships between production code smell and test code smell.  
 
 ## A survey on test practitioners’ awareness of test smells
 ```
